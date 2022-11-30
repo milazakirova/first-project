@@ -69,7 +69,8 @@
     margin: 0;
     right: 0;
     bottom: 0;
-    background-size: cover;
+    object-fit: cover;
+    object-position: right bottom;
     z-index: 1;
 }
 
@@ -275,6 +276,8 @@
 .footer {
     background-color:  #1f1f1f;
     min-height: 350px;
+    display: flex;
+    align-self: flex-end;
 }
 
 .footer__columns {

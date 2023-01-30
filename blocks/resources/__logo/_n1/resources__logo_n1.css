@@ -1,0 +1,7 @@
+.resources__logo_n1 {
+  background-image: url(../images/logo/resources-n1.svg);
+}
+
+.resources__logo_n1:hover {
+  opacity: 0.7;
+}

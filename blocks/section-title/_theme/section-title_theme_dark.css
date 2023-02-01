@@ -2,4 +2,6 @@
   margin: 0 auto;
   margin-bottom: 0;
   color: white;
+  z-index: 1;
+  position: relative;
 }
